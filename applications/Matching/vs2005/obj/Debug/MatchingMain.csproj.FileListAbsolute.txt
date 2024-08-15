@@ -1,0 +1,4 @@
+E:\Halcon_Codelets\applications\Matching\vs2005\obj\Debug\MatchingMain.csproj.AssemblyReference.cache
+E:\Halcon_Codelets\applications\Matching\vs2005\obj\Debug\MatchingMain.MatchingForm.resources
+E:\Halcon_Codelets\applications\Matching\vs2005\obj\Debug\MatchingMain.csproj.GenerateResource.cache
+E:\Halcon_Codelets\applications\Matching\vs2005\obj\Debug\MatchingMain.csproj.CoreCompileInputs.cache

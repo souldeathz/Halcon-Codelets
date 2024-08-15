@@ -1,0 +1,13 @@
+E:\Halcon_Codelets\applications\GraphicsStack\vs2005\bin\Debug\GraphicsStack.exe
+E:\Halcon_Codelets\applications\GraphicsStack\vs2005\bin\Debug\GraphicsStack.pdb
+E:\Halcon_Codelets\applications\GraphicsStack\vs2005\bin\Debug\halcondotnet.dll
+E:\Halcon_Codelets\applications\GraphicsStack\vs2005\bin\Debug\ViewROI.dll
+E:\Halcon_Codelets\applications\GraphicsStack\vs2005\bin\Debug\ViewROI.pdb
+E:\Halcon_Codelets\applications\GraphicsStack\vs2005\bin\Debug\halcondotnet.xml
+E:\Halcon_Codelets\applications\GraphicsStack\vs2005\obj\Debug\GraphicsStack.csproj.AssemblyReference.cache
+E:\Halcon_Codelets\applications\GraphicsStack\vs2005\obj\Debug\GraphicsStack.GraphicsStackForm.resources
+E:\Halcon_Codelets\applications\GraphicsStack\vs2005\obj\Debug\GraphicsStack.csproj.GenerateResource.cache
+E:\Halcon_Codelets\applications\GraphicsStack\vs2005\obj\Debug\GraphicsStack.csproj.CoreCompileInputs.cache
+E:\Halcon_Codelets\applications\GraphicsStack\vs2005\obj\Debug\GraphicsStack.csproj.CopyComplete
+E:\Halcon_Codelets\applications\GraphicsStack\vs2005\obj\Debug\GraphicsStack.exe
+E:\Halcon_Codelets\applications\GraphicsStack\vs2005\obj\Debug\GraphicsStack.pdb

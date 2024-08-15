@@ -1,0 +1,13 @@
+E:\Halcon_Codelets\applications\InteractiveROI\vs2005\bin\Debug\InteractiveROI.exe
+E:\Halcon_Codelets\applications\InteractiveROI\vs2005\bin\Debug\InteractiveROI.pdb
+E:\Halcon_Codelets\applications\InteractiveROI\vs2005\bin\Debug\halcondotnet.dll
+E:\Halcon_Codelets\applications\InteractiveROI\vs2005\bin\Debug\ViewROI.dll
+E:\Halcon_Codelets\applications\InteractiveROI\vs2005\bin\Debug\ViewROI.pdb
+E:\Halcon_Codelets\applications\InteractiveROI\vs2005\bin\Debug\halcondotnet.xml
+E:\Halcon_Codelets\applications\InteractiveROI\vs2005\obj\Debug\InteractiveROI.csproj.AssemblyReference.cache
+E:\Halcon_Codelets\applications\InteractiveROI\vs2005\obj\Debug\InteractiveROI.InteractiveForm.resources
+E:\Halcon_Codelets\applications\InteractiveROI\vs2005\obj\Debug\InteractiveROI.csproj.GenerateResource.cache
+E:\Halcon_Codelets\applications\InteractiveROI\vs2005\obj\Debug\InteractiveROI.csproj.CoreCompileInputs.cache
+E:\Halcon_Codelets\applications\InteractiveROI\vs2005\obj\Debug\InteractiveROI.csproj.CopyComplete
+E:\Halcon_Codelets\applications\InteractiveROI\vs2005\obj\Debug\InteractiveROI.exe
+E:\Halcon_Codelets\applications\InteractiveROI\vs2005\obj\Debug\InteractiveROI.pdb
