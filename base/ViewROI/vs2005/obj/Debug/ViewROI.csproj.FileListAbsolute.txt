@@ -1,0 +1,9 @@
+E:\Halcon_Codelets\base\ViewROI\vs2005\bin\Debug\ViewROI.dll
+E:\Halcon_Codelets\base\ViewROI\vs2005\bin\Debug\ViewROI.pdb
+E:\Halcon_Codelets\base\ViewROI\vs2005\bin\Debug\halcondotnet.dll
+E:\Halcon_Codelets\base\ViewROI\vs2005\bin\Debug\halcondotnet.xml
+E:\Halcon_Codelets\base\ViewROI\vs2005\obj\Debug\ViewROI.csproj.AssemblyReference.cache
+E:\Halcon_Codelets\base\ViewROI\vs2005\obj\Debug\ViewROI.csproj.CoreCompileInputs.cache
+E:\Halcon_Codelets\base\ViewROI\vs2005\obj\Debug\ViewROI.csproj.CopyComplete
+E:\Halcon_Codelets\base\ViewROI\vs2005\obj\Debug\ViewROI.dll
+E:\Halcon_Codelets\base\ViewROI\vs2005\obj\Debug\ViewROI.pdb
