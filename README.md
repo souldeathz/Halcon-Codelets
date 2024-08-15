@@ -1,9 +1,3 @@
-# HALCON Codelets - Legacy
-
-The HALCON Codelets are now considered **legacy**. They are still available, but they have not been updated to include the new features of HALCON 12. When using applications with HALCON Codelets, only features of HALCON 11 may be utilized.
-
-Please note that starting from HALCON 13, the HALCON Codelets have been completely removed .
-
 ## Overview
 
 The HALCON Codelets section provides various class libraries and applications that demonstrate specific functionalities and how to use them within HALCON. These are primarily divided into the following categories:
