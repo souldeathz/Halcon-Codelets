@@ -1,0 +1,2 @@
+E:\Halcon_Codelets\assistants\Matching\vs2005\obj\Debug\MatchingModule.csproj.AssemblyReference.cache
+E:\Halcon_Codelets\assistants\Matching\vs2005\obj\Debug\MatchingModule.csproj.CoreCompileInputs.cache
