@@ -15,15 +15,15 @@ The HALCON Codelets section provides various class libraries and applications th
   - Usage is demonstrated in application examples listed below.
 
 - **Calibration**
-  - Implements the functionality of HDevelop's Calibration Assistant (refer to HDevelop User's Guide, section 7.1, page 227).
+  - Implements the functionality of HDevelop's Calibration Assistant 
   - Examples demonstrating how to use these classes are provided.
 
 - **Matching**
-  - Provides functionality for matching operations as implemented in HDevelop's Matching Assistant (refer to HDevelop User's Guide, section 7.3, page 254).
+  - Provides functionality for matching operations as implemented in HDevelop's Matching Assistant 
   - Examples are provided to demonstrate usage.
 
 - **Measure**
-  - Implements the Measure Assistant functionalities as described in HDevelop's Measure Assistant (refer to HDevelop User's Guide, section 7.4, page 295).
+  - Implements the Measure Assistant functionalities as described in HDevelop's Measure Assistant 
   - Example applications demonstrate how to use these classes.
 
 ### Application Examples
